@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="75348" started-at="2022-04-15T22:25:21Z" finished-at="2022-04-15T22:26:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="75348" started-at="2022-04-15T22:25:21Z" finished-at="2022-04-15T22:26:36Z">
+      <class name="com.example.demo.RegisterLogin">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.example.demo.RegisterLogin@229d10bd]" name="Setup" duration-ms="7022" started-at="2022-04-15T22:25:21Z" description=" This test is for setup" finished-at="2022-04-15T22:25:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="userFailTestcase()[pri:1, instance:com.example.demo.RegisterLogin@229d10bd]" name="userFailTestcase" duration-ms="8877" started-at="2022-04-15T22:25:28Z" description=" This test is for Customer register" finished-at="2022-04-15T22:25:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userFailTestcase -->
+        <test-method status="PASS" signature="userRegister()[pri:2, instance:com.example.demo.RegisterLogin@229d10bd]" name="userRegister" duration-ms="8986" started-at="2022-04-15T22:25:37Z" description=" This test is for Customer login fail" finished-at="2022-04-15T22:25:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userRegister -->
+        <test-method status="PASS" signature="userPassTestcase()[pri:3, instance:com.example.demo.RegisterLogin@229d10bd]" name="userPassTestcase" duration-ms="8535" started-at="2022-04-15T22:25:46Z" description=" This test is for Customer login fail" finished-at="2022-04-15T22:25:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userPassTestcase -->
+        <test-method status="PASS" signature="searchProduct()[pri:4, instance:com.example.demo.RegisterLogin@229d10bd]" name="searchProduct" duration-ms="18726" started-at="2022-04-15T22:25:54Z" description=" This test is for Customer login fail" finished-at="2022-04-15T22:26:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method status="PASS" signature="checkoutform()[pri:5, instance:com.example.demo.RegisterLogin@229d10bd]" name="checkoutform" duration-ms="18918" started-at="2022-04-15T22:26:13Z" description=" This test is for Customer login fail" finished-at="2022-04-15T22:26:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutform -->
+        <test-method status="PASS" signature="TearDown()[pri:6, instance:com.example.demo.RegisterLogin@229d10bd]" name="TearDown" duration-ms="4233" started-at="2022-04-15T22:26:32Z" description=" This test is for Customer register close" finished-at="2022-04-15T22:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.example.demo.RegisterLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="RegisterLogin-TestNG/src/main/java"/>
+	<classpathentry kind="src" path="RegisterLogin-TestNG/src/test/java"/>
+	<classpathentry kind="src" path="RegisterLogin/src/main/java"/>
+	<classpathentry kind="src" path="RegisterLogin/src/test/java"/>
+	<classpathentry kind="output" path="RegisterLogin/target/classes"/>
+</classpath>
